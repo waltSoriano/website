@@ -383,4 +383,7 @@ section{
         padding: 10px 20px;
         transition: .4s;
     }
+    .box{
+        padding-top:20px;
+    }
 }
